@@ -8,7 +8,7 @@
  - custom backgrounds (paste the link to an image into 4 fields in the begining of the file)
  ## Preview 1: 
   ![alt text](https://raw.githubusercontent.com/linzor/Youtube_Custom_CSS/main/yt_css_preview3.jpg)
-link to the background iamge: https://wallhaven.cc/w/yxx3kd
+link to the background image: https://wallhaven.cc/w/yxx3kd
 
 ## Preview 2:
  ![alt text](https://raw.githubusercontent.com/linzor/Youtube_Custom_CSS/main/yt_css_preview1.jpg)
