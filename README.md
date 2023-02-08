@@ -1,4 +1,5 @@
 # Custom YouTube .CSS 
+- Disable Ambient mode
 - Enable dark mode in youtube appearance settings before injecting.
 - Also Bloated AF, BUT IT WORKS :D
 ## Features: 
