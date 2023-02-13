@@ -5,7 +5,7 @@
 ## Features: 
  - opacity
  - blur
- - custom backgrounds (paste the link to an image into 4 fields in the begining of the file)
+ - custom backgrounds (paste the link to an image into the ytd-app in the begining of the file)
  ## Preview 1: 
   ![alt text](https://raw.githubusercontent.com/linzor/Youtube_Custom_CSS/main/yt_css_preview3.jpg)
 link to the background image: https://wallhaven.cc/w/yxx3kd
