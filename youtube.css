@@ -1,24 +1,22 @@
 /* Replace with links to your images */
  
- #primary .ytd-two-column-browse-results-renderer{
-  background-image:url("https://w.wallhaven.cc/full/yx/wallhaven-yxx3kd.png");
+#primary .ytd-two-column-browse-results-renderer{
+	background-color:rgba(255,255,255,0) !important;
  }
 
  #page-manager .ytd-page-manager{
-  background-image:url("https://w.wallhaven.cc/full/yx/wallhaven-yxx3kd.png");
+ background-color:rgba(255,255,255,0) !important;
  }
  
  body{
-  background-image:url("https://w.wallhaven.cc/full/yx/wallhaven-yxx3kd.png");
-  background-size:cover;
-  background-attachment:fixed;
+ background-color:rgba(255,255,255,0) !important;
+
  }
- 
- ytd-app{
+ytd-app{
   background-color:rgba(255,255,255,0) !important;
   transform:translatex(0px) translatey(0px);
-  background-image:url("https://w.wallhaven.cc/full/yx/wallhaven-yxx3kd.png") !important;
- }
+  background-image:url("https://w.wallhaven.cc/full/vg/wallhaven-vg2e15.jpg") !important;
+ } 
  
 
 
@@ -26,6 +24,11 @@
 
 
  /* Actual .css, yes bloated af, BUT IT WORKS */
+/* App */
+#content > .ytd-app{
+ background-color:rgba(0,0,0,0);
+}
+
 
 /* Background */
 #background{
