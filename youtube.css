@@ -1,5 +1,15 @@
-/* Replace with links to your images */
- 
+/* Replace with link to your image */
+
+
+ytd-app{
+  background-color:rgba(255,255,255,0) !important;
+  transform:translatex(0px) translatey(0px);
+  background-image:url("https://w.wallhaven.cc/full/vg/wallhaven-vg2e15.jpg") !important;
+ } 
+
+
+
+ /* Actual .css, yes bloated af, BUT IT WORKS */
 #primary .ytd-two-column-browse-results-renderer{
 	background-color:rgba(255,255,255,0) !important;
  }
@@ -12,18 +22,9 @@
  background-color:rgba(255,255,255,0) !important;
 
  }
-ytd-app{
-  background-color:rgba(255,255,255,0) !important;
-  transform:translatex(0px) translatey(0px);
-  background-image:url("https://w.wallhaven.cc/full/vg/wallhaven-vg2e15.jpg") !important;
- } 
- 
 
 
 
-
-
- /* Actual .css, yes bloated af, BUT IT WORKS */
 /* App */
 #content > .ytd-app{
  background-color:rgba(0,0,0,0);
