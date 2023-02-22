@@ -419,3 +419,23 @@ ytd-app .ytd-app > .ytd-popup-container{
  backdrop-filter:blur(10px) brightness(0.5) saturate(0.5) !important;
 }
 
+/* yt channel grid renderer vid*/
+/* Thumbnail */
+#thumbnail{
+ transform:translatex(0px) translatey(0px);
+}
+
+/* Rich item renderer */
+#content > .ytd-rich-item-renderer{
+ background-color:rgba(0,0,0,0);
+ border-top-left-radius:20px;
+ border-top-right-radius:20px;
+ border-bottom-left-radius:20px;
+ border-bottom-right-radius:20px;
+ backdrop-filter:blur(10px) brightness(0.9) saturate(0.9);
+}
+
+/* Metadata line */
+#metadata-line{
+ padding-left:5px;
+}
